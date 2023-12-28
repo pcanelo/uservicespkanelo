@@ -1,0 +1,102 @@
+[
+ {
+   "productId": 16592,
+   "description": "Laptop Computer",
+   "price": 498
+ },
+ {
+   "productId": 10693,
+   "description": "2 in 1 Computer ",
+   "price": 799
+ },
+ {
+   "productId": 17496,
+   "description": "Desktop Computer",
+   "price": 549
+ },
+ {
+   "productId": 12853,
+   "description": "Wireless Mouse",
+   "price": 19.95
+ },
+ {
+   "productId": 12677,
+   "description": "Trackball",
+   "price": 32.45
+ },
+ {
+   "productId": 12690,
+   "description": "External USB Drive",
+   "price": 89.95
+ },
+ {
+   "productId": 18525,
+   "description": "USB Keyboard",
+   "price": 18.95
+ },
+ {
+   "productId": 10993,
+   "description": "External Monitor",
+   "price": 125.24
+ },
+ {
+   "productId": 13042,
+   "description": "Computer Speakers",
+   "price": 22.95
+ },
+ {
+   "productId": 13362,
+   "description": "Headset",
+   "price": 62.5
+ },
+ {
+   "productId": 10142,
+   "description": "Earbuds",
+   "price": 12.95
+ },
+ {
+   "productId": 17488,
+   "description": "Wireless Router",
+   "price": 79.65
+ },
+ {
+   "productId": 11895,
+   "description": "Power Strip",
+   "price": 12
+ },
+ {
+   "productId": 16026,
+   "description": "InkJet Printer",
+   "price": 124.95
+ },
+ {
+   "productId": 15577,
+   "description": "USB Cable",
+   "price": 6.99
+ },
+ {
+   "productId": 18627,
+   "description": "USB Power Supply",
+   "price": 12.95
+ },
+ {
+   "productId": 19753,
+   "description": "SmartPhone",
+   "price": 499
+ },
+ {
+   "productId": 10713,
+   "description": "Stapler",
+   "price": 5.99
+ },
+ {
+   "productId": 13858,
+   "description": "Paper Shredder",
+   "price": 73.65
+ },
+ {
+   "productId": 16583,
+   "description": "Coffee Machine",
+   "price": 20
+ }
+]

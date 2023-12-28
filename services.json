@@ -1,0 +1,23 @@
+{
+  "productDetailService":
+    {
+      "name"   : "Product Detail Service",
+      "server" : "http://localhost",
+      "serviceRoute" : "/details",
+      "port"   : "3010"
+    },
+  "productInventoryService":
+    {
+      "name"   : "Product Inventory Service",
+      "server" : "http://localhost",
+      "serviceRoute" : "/inventory",
+      "port"   : "3020"
+    },
+  "productService":
+    {
+      "name"   : "Product Inquiry Service",
+      "server" : "http://localhost",
+      "serviceRoute" : "/product",
+      "port"   : "3030"
+    }
+}
